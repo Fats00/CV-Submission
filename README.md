@@ -14,8 +14,9 @@ This Repository consists of my CV and my personal "STAR" technique experience. T
 
 <h2>Screenshot:</h2>
 
-CV Creation Programme: <br/>
-![cv creation programme](https://github.com/user-attachments/assets/39aefb6a-3519-48f1-bf12-6a468a2618a4)
+CV: <br/>
+![CV](https://github.com/user-attachments/assets/60a4e609-e540-4457-ab52-fa71d46bfbcb)
+
 <br />
 <br></br>
 
