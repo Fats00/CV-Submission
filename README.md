@@ -12,43 +12,11 @@ This Repository consists of my CV and my personal "STAR" technique experience. T
 - <b>A – Action:</b> Once I finalized the content and layout of my CV, I reviewed it thoroughly for any spelling or formatting errors, ensuring it aligned with industry standards. I then submitted the final version through the required platform, along with a short, formal message to demonstrate professionalism.</b>
 - <b>R – Result:</b> Submitting the final CV made me feel more confident and prepared for the job market. It marked the completion of a key step in my career development. I received constructive feedback, which reassured me that my CV is well-structured and clearly communicates my strengths and experience.</b>
 
-<h2>Screenshots:</h2>
+<h2>CV Document:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="[https://i.imgur.com/62TgaWL.png](https://imgur.com/a/1DTlXaI)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+CV: <br/>
+[Kgotsofatso CV Resume (3).pdf](https://github.com/user-attachments/files/20415516/Kgotsofatso.CV.Resume.3.pdf)
 <br />
-<br />
-Select the disk:  <br/>
-<img src="[https://i.imgur.com/tcTyMUE.png](https://imgur.com/a/1DTlXaI)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+
