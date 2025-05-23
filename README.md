@@ -12,11 +12,11 @@ This Repository consists of my CV and my personal "STAR" technique experience. T
 - <b>A – Action:</b> Once I finalized the content and layout of my CV, I reviewed it thoroughly for any spelling or formatting errors, ensuring it aligned with industry standards. I then submitted the final version through the required platform, along with a short, formal message to demonstrate professionalism.</b>
 - <b>R – Result:</b> Submitting the final CV made me feel more confident and prepared for the job market. It marked the completion of a key step in my career development. I received constructive feedback, which reassured me that my CV is well-structured and clearly communicates my strengths and experience.</b>
 
-<h2>CV Document:</h2>
+<h2>Screenshot:</h2>
 
-<p align="center">
-CV: <br/>
-[Kgotsofatso CV Resume (3).pdf](https://github.com/user-attachments/files/20415516/Kgotsofatso.CV.Resume.3.pdf)
+CV Creation Programme: <br/>
+![cv creation programme](https://github.com/user-attachments/assets/39aefb6a-3519-48f1-bf12-6a468a2618a4)
 <br />
+<br></br>
 
 
